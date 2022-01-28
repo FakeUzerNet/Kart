@@ -25,7 +25,7 @@ namespace Kart
 
         private void Info_Closed(object sender, FormClosedEventArgs e)
         {
-            //Application.Exit();
+            Application.Exit();
         }
 
         private void Back_Click(object sender, EventArgs e)

@@ -40,8 +40,8 @@ namespace Kart
             this.label2 = new System.Windows.Forms.Label();
             this.label13 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
+            this.minus = new System.Windows.Forms.Button();
+            this.plus = new System.Windows.Forms.Button();
             this.label11 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
@@ -168,23 +168,23 @@ namespace Kart
             this.textBox1.Size = new System.Drawing.Size(87, 22);
             this.textBox1.TabIndex = 41;
             // 
-            // button1
+            // minus
             // 
-            this.button1.Location = new System.Drawing.Point(579, 316);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(31, 23);
-            this.button1.TabIndex = 42;
-            this.button1.Text = "-";
-            this.button1.UseVisualStyleBackColor = true;
+            this.minus.Location = new System.Drawing.Point(579, 316);
+            this.minus.Name = "minus";
+            this.minus.Size = new System.Drawing.Size(31, 23);
+            this.minus.TabIndex = 42;
+            this.minus.Text = "-";
+            this.minus.UseVisualStyleBackColor = true;
             // 
-            // button2
+            // plus
             // 
-            this.button2.Location = new System.Drawing.Point(729, 315);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(31, 23);
-            this.button2.TabIndex = 43;
-            this.button2.Text = "+";
-            this.button2.UseVisualStyleBackColor = true;
+            this.plus.Location = new System.Drawing.Point(729, 315);
+            this.plus.Name = "plus";
+            this.plus.Size = new System.Drawing.Size(31, 23);
+            this.plus.TabIndex = 43;
+            this.plus.Text = "+";
+            this.plus.UseVisualStyleBackColor = true;
             // 
             // label11
             // 
@@ -376,8 +376,8 @@ namespace Kart
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label11);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.plus);
+            this.Controls.Add(this.minus);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label13);
             this.Controls.Add(this.Cancel);
@@ -408,8 +408,8 @@ namespace Kart
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button minus;
+        private System.Windows.Forms.Button plus;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label6;

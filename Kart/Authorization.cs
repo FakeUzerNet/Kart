@@ -22,5 +22,11 @@ namespace Kart
             ClientSize = new Size(645, 375);
             FormBorderStyle = FormBorderStyle.FixedSingle;
         }
+
+        private void Authourization_close(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
+        }
+
     }
 }

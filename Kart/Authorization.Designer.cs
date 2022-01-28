@@ -187,6 +187,7 @@ namespace Kart
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Authorization";
             this.Text = "Kart Skills 2017";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Authourization_close);
             this.Load += new System.EventHandler(this.Authorization_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -25,7 +25,9 @@ namespace Kart
 
         private void RegistrationRacer_Click(object sender, EventArgs e)
         {
-
+            Form registrationRacer = new RegistrationRace();
+            registrationRacer.Show();
+            this.Hide();
         }
 
         private void Info_Click(object sender, EventArgs e)
@@ -38,6 +40,13 @@ namespace Kart
         private void KartSkills_Closed(object sender, FormClosedEventArgs e)
         {
             Application.Exit();
+        }
+
+        private void Authorization_Click(object sender, EventArgs e)
+        {
+            Form authorization = new Authorization();
+            authorization.Show();
+            this.Hide();
         }
     }
 }

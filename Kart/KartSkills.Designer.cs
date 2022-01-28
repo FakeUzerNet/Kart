@@ -143,6 +143,7 @@ namespace Kart
             this.Authorization.Size = new System.Drawing.Size(99, 96);
             this.Authorization.TabIndex = 6;
             this.Authorization.UseVisualStyleBackColor = true;
+            this.Authorization.Click += new System.EventHandler(this.Authorization_Click);
             // 
             // Info
             // 
