@@ -1,0 +1,16 @@
+C:\Users\PIWan\source\repos\Kart\Kart\bin\Debug\Kart.exe.config
+C:\Users\PIWan\source\repos\Kart\Kart\bin\Debug\Kart.exe
+C:\Users\PIWan\source\repos\Kart\Kart\bin\Debug\Kart.pdb
+C:\Users\PIWan\source\repos\Kart\Kart\obj\Debug\Kart.csprojAssemblyReference.cache
+C:\Users\PIWan\source\repos\Kart\Kart\obj\Debug\Kart.Properties.Resources.resources
+C:\Users\PIWan\source\repos\Kart\Kart\obj\Debug\Kart.csproj.GenerateResource.cache
+C:\Users\PIWan\source\repos\Kart\Kart\obj\Debug\Kart.csproj.CoreCompileInputs.cache
+C:\Users\PIWan\source\repos\Kart\Kart\obj\Debug\Kart.exe
+C:\Users\PIWan\source\repos\Kart\Kart\obj\Debug\Kart.pdb
+C:\Users\PIWan\source\repos\Kart\Kart\obj\Debug\Kart.KartSkills.resources
+C:\Users\PIWan\source\repos\Kart\Kart\obj\Debug\Kart.Authorization.resources
+C:\Users\PIWan\source\repos\Kart\Kart\obj\Debug\Kart.CheckRacer.resources
+C:\Users\PIWan\source\repos\Kart\Kart\obj\Debug\Kart.RegistrationRace.resources
+C:\Users\PIWan\source\repos\Kart\Kart\obj\Debug\Kart.ConfirmSponsor.resources
+C:\Users\PIWan\source\repos\Kart\Kart\obj\Debug\Kart.Info.resources
+C:\Users\PIWan\source\repos\Kart\Kart\obj\Debug\Kart.SponsorRacer.resources
